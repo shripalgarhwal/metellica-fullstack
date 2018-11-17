@@ -1,0 +1,24 @@
+
+.container {
+  padding: 8px;
+  text-align: left;
+}
+.container label{
+  font-weight: bold;
+}
+.container select{
+  min-width: 160px;
+  min-height: 32px;
+  border: 0px;
+  border-bottom: 1px solid #ddd;
+}
+.textField {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.button{
+  margin: 0px 5px 0px 5px !important;
+}
+.price-field{
+  width: calc(100% - 40px);
+}

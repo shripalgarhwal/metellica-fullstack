@@ -1,0 +1,7 @@
+.trader-form{
+  text-align: left;
+}
+.trader-form>.trader-form-header{
+  padding: 8px;
+  background-color: #ddd;
+}

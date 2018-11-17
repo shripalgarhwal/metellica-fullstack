@@ -1,0 +1,33 @@
+.container {
+  padding: 8px;
+  text-align: left;
+}
+.container form>.form-fields {
+  display: flex;
+  flex-wrap: wrap;
+}
+.container form>.form-fields>div {
+  padding: 5px 10px 5px 10px;
+  width: 165px;
+}
+.container form>.form-fields>div>a{
+  text-decoration: none;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.container label{
+  font-weight: bold;
+}
+.container select{
+  min-width: 100px;
+  min-height: 32px;
+  border: 0px;
+  border-bottom: 1px solid #ddd;
+}
+.pager{
+  padding: 8px;
+}
+.textField {
+  margin-left: 0px;
+  margin-right: 0px;
+}
